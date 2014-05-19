@@ -11,4 +11,5 @@ INSTALLATION
 4.  Install PySide
 5.  Install FAKER library
 6.  Install Psycopg2 library
-7.  clone this repo
+7.  Install pyUsb library
+8.  clone this repo
